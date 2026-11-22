@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+todos.txt
+.vscode/
+*.pyc
