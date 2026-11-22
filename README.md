@@ -1,3 +1,4 @@
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c2eaeddb-fca4-4fab-8400-d9c97524974e" />
 # Python To-Do Application
 
 A Python-based task management application featuring three different interfaces: command-line (CLI), desktop GUI, and Streamlit web application.
